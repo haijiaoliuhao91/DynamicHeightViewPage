@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="common_item_margin_2_point_5_dp">2.5dp</dimen>
+
+    <dimen name="common_item_margin_5dp">5dp</dimen>
+    <dimen name="common_item_margin_10dp">10dp</dimen>
+    <dimen name="common_item_margin_15dp">15dp</dimen>
+    <dimen name="common_item_margin_20dp">20dp</dimen>
+    <dimen name="common_item_tagview_height">26dp</dimen>
+
+
+</resources>
